@@ -1,0 +1,93 @@
+
+.nav{
+  /* Screenshot 2022-11-15 at 2.56 1 */
+
+position: fixed;
+width: 1326px;
+height: 71px;
+left: 0px;
+top: 0px;
+background-color: black;
+display: flex;  
+/* align-items: center; */
+}
+.nav a{
+    /* Ellipse 1 */
+
+    position: relative;
+    width: 42px;
+    height: 58px;
+    left: 8px;
+    top: 6px;
+    background: #D9D9D9;    
+
+}
+
+.nav .btn{
+  display: flex;
+  
+    
+}
+ .btn1{
+    /* Rectangle 16 */
+
+position: absolute;
+width: 150px;
+height: 47px;
+left: 700px;
+top: 11px;
+color: white;
+background: #222529;
+
+ }
+ .btn2{
+    /* Screenshot 2022-11-15 at 2.56 1 */
+
+    position: absolute;
+    width: 150px;
+    height: 47px;
+    left: 900px;
+    top: 11px;
+    color: white;
+    background: #222529;
+
+ }
+
+ .btn3{
+    position: absolute;
+    width: 150px;
+    height: 47px;
+    left: 1100px;
+    top: 11px;
+    color: white;
+    background: #222529;
+ }
+
+ .footer{
+    /* Rectangle 18 */
+
+position: absolute;
+width: 1335px;
+height: 495px;
+left: 0px;
+top: 2752px;
+
+background: #222529;
+
+ }
+ .footer{
+    color: rgb(44, 152, 152);
+ }
+
+ .content-section div{
+top: 90px;
+
+ }
+ 
+ h2{
+    /* Flex Cards */
+    top: 150px;
+height: 80px;
+width: 150px;
+
+ }
